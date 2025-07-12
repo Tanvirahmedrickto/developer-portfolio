@@ -1,0 +1,110 @@
+.header{
+
+         background-image: url(../pic/wallpaperflare.com_wallpaper.jpg);
+         background-repeat: none;
+
+
+}
+
+
+
+
+.open-sans-normal{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.nav-title{
+             
+    font-size: 45px;
+    font-weight: 800;
+}
+
+
+
+
+/*colors and shyred stytle*/
+.dark-2{
+
+  color: #474747;
+}
+.color-style{
+
+color: skyblue;
+
+}
+
+/* pic style */
+.pic-style{
+
+  width: 580px;
+
+}
+
+.btn-primiry{
+           background-color: skyblue;
+           color: white;
+           font-weight: bold;
+           padding: 18px 35px;
+           border-radius: 5px ;
+           font-size: 20px ;
+           border: none;
+
+}
+
+/* nav styles */
+
+nav{
+     display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 30PX 200px;
+}
+nav ul li{
+  list-style: none;
+  margin-right: 50px;
+ 
+}
+
+ul li a {
+
+          text-decoration: none;
+
+}
+nav ul{  
+
+            display: flex;
+           align-items: center;
+}
+/* banner style */
+
+
+.banner-greetings{
+
+           font-size: 45px;
+           font-weight: 600;}
+
+.banner-title{
+
+         font-weight: bold;
+         font-size: 85px;
+
+
+}
+
+.banner{
+
+      display: flex;
+      justify-content: space-between;
+      margin: 0 35px 0 200px;
+
+}
+.banner-contant{
+
+        max-width: 580px;
+
+
+
+}
